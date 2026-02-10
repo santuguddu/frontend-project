@@ -4,7 +4,7 @@ Follow the steps below to set up and run the project locally.
 
 1. Install the Project
 
-Download the project1.zip file.
+Download the project.
 
 Extract the contents to your desired location.
 
